@@ -5,6 +5,7 @@
 #Note:• Assume 1-based indexing • Assume that the railing extends infinitely on the either sides
 #Input Format:input1 : An integer value N representing the number of moves made by the ant.
 #input2 : An integer array A consisting of the ant's moves towards either side
+
 array=list(map(int,input().split()))
 n=len(array)
 count=0
